@@ -4,4 +4,4 @@ version=v1.2
 versionCode=12
 author=echo21bash
 description=Copies all the CA Certificates found in User Certs to System Certs, supporting Android 7-16
-updateJson=https://raw.githubusercontent.com/Echo21bash/TrustUserCertificates/master/update.json
+updateJson=https://raw.githubusercontent.com/Echo21bash/TrustUserCertificates/master/src/update.json
