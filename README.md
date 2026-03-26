@@ -23,4 +23,4 @@
 
 ## 日志和调试
 
-模块运行日志保存在`/data/local/tmp/trust_usercert/trust_usercert.log`中，可用于调试和故障排除。
+模块运行日志保存在`/data/local/tmp/TrustUserCertificates/`中，可用于调试和故障排除。
